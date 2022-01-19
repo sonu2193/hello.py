@@ -1,0 +1,2 @@
+d=janvi
+print(d)
